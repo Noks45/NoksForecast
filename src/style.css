@@ -97,6 +97,7 @@ main {
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
   line-height: 20px;
+  margin-bottom: 10px;
 }
 
 .weather-forecast-icon {
@@ -107,8 +108,8 @@ main {
 .weather-forecast-temperatures {
   text-align: center;
   color: #f65282;
-  display: flex;
   margin-top: 10px;
+  display: flex;
   justify-content: center;
 }
 
